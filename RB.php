@@ -7,8 +7,8 @@
 
 //Change User & Password
 
-$tacfgd['uname'] = 'r00t';
-$tacfgd['pword'] = 'r00t';
+$tacfgd['uname'] = 'R007';
+$tacfgd['pword'] = 'BuL37';
 
 
 // Title of page.
